@@ -15,13 +15,13 @@ This repository contains the following:
 
 ## Current state of model
 
-Train Mean Squared Error: price    1.560026e+10
+**Train Mean Squared Error:**    1.560026e+10
 
-Test Mean Squared Error: price    1.767654e+10
+**Test Mean Squared Error:**    1.767654e+10
 
-Average predicted price: $542532.02
+**Average predicted price:** $542532.02
 
-Average actual price: $547388.82
+**Average actual price:** $547388.82
 
 ## To do 
 
