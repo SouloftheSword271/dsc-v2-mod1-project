@@ -15,6 +15,8 @@ This repository contains the following:
 
 ## Current state of model
 
+**R-squared:**	0.881
+
 **Train Mean Squared Error:**    1.560026e+10
 
 **Test Mean Squared Error:**    1.767654e+10
